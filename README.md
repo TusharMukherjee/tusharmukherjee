@@ -1,6 +1,5 @@
 ### Hi there 👋
-#### #OpenToWork] 🏋️‍♂
-[LinkedIn](https://www.linkedin.com/in/tusharmkj)
+#### #OpenToWork 🏋️‍♂ [LinkedIn](https://www.linkedin.com/in/tusharmkj)
 
 <!--
 **TusharMukherjee/tusharmukherjee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
