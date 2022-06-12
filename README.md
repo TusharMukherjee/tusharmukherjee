@@ -1,5 +1,13 @@
-### Hi there 👋
-#### #OpenToWork 🏋️‍♂ [LinkedIn](https://www.linkedin.com/in/tusharmkj) | [Linktree](https://linktr.ee/tusharmukherjee)
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif" width="250"/>
+</div>
+<br/>
+<div id="badges" align="center">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/Linktree-green?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree Badge"/>
+  </a>
+ </div>
+<!-- #### #OpenToWork 🏋️‍♂ [LinkedIn](https://www.linkedin.com/in/tusharmkj) | [Linktree](https://linktr.ee/tusharmukherjee) -->
 
 <!--
 **TusharMukherjee/tusharmukherjee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
