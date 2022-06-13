@@ -4,12 +4,26 @@
 <br/>
 <div id="badges" align="center">
   
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/Linktree-green?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree Badge"/>
+  <a href="[your-linkedin-URL](https://www.linkedin.com/in/tusharmkj)">
+    <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linktree Badge"/>
   </a>
+  
+  <a href="https://www.instagram.com/tushar.mkj">
+    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+  
+  <a href="https://twitter.com/tushar_mkj">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twiter Badge"/>
+  </a>
+  
+  <br>
+  
+  <img src="https://komarev.com/ghpvc/?username=tusharmukherjee&style=flat-square&color=blue" alt=""/>
   
  </div>
  
+ <br>
+ <br>
  <br>
 <!-- #### #OpenToWork 🏋️‍♂ [LinkedIn](https://www.linkedin.com/in/tusharmkj) | [Linktree](https://linktr.ee/tusharmukherjee) -->
 
