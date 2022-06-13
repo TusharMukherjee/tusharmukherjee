@@ -28,8 +28,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
  -->
 
-## Languages and Skills I know
-<div>
+
+<div align="center">
+  <h1>Languages and Skills</h1>
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/> &nbsp;
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="40" height="40"/> &nbsp;
   <img src = "https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40" height="40"/> &nbsp;
   <img src = "https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" width="40" height="40"/> &nbsp;
   <img src = "https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" width="40" height="40"/> &nbsp;
